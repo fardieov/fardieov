@@ -1,16 +1,20 @@
-### Hi there 👋
+### Привет! 👋
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZpZmhvY2x0NGlodXNveDR3NmduYmw0cGN0ZWU4cGk4YjBrNzdiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TxjOEVUWq5RTy/giphy.gif"/>
+</div>
 
-<!--
-**fardieov/fardieov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне 👩‍💻
+* **Python**: Я занимаюсь разработкой на Python в течение 1 года.
+* **GitHub**: Начал использовать GitHub недавно.
 
-Here are some ideas to get you started:
+## Моя конфигурация ПК 🖥️
+* **Процессор**: Intel Core i5-10300H
+* **Видеокарта**: NVIDIA GeForce GTX 1650 Ti
+* **ОЗУ**: 8 Gigabyte
+* Я использую ноутбук Asus Tuf Gaming F17 + ПК
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Мои навыки 🔧
+<div>
+<img src="(https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg)"  title="PY" alt="PY" width="40" height="40"/>&nbsp;
+  <div>
