@@ -1,6 +1,6 @@
 ### Hello! 👋
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZpZmhvY2x0NGlodXNveDR3NmduYmw0cGN0ZWU4cGk4YjBrNzdiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TxjOEVUWq5RTy/giphy.gif"/>
+<div align="">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB6OXV5Mm5jbmF2ZDNyMmJpd3c2YXJmYzllZ2ZsbWR2OTdzN2NoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uju2qRf4p2notjRZAQ/giphy.webp"/>
 </div>
 
 ### About me 👩‍💻
