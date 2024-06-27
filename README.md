@@ -6,18 +6,18 @@
 ### About me 👩‍💻
 * **Python**: I have been developing in Python for 1 year.
 * **Discord**: @fardieov
-## My PC configuration 🖥️
+## ~ 🖥️
 * **Processor**: Intel Core i5-10300H
 * **Video card**: NVIDIA GeForce GTX 1650 Ti
 * **RAM**: 8 Gigabyte
 * I am using an Asus Tuf Gaming F17 laptop + PC
 ---
 
-### My skills and tools 🔧
+### & 🔧
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="AWS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="AWS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/fardieov/fardieov/assets/169608913/d20d2d5b-99df-48f6-aa2f-2ad84a7f7bf3" title="1" alt="1" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/fardieov/fardieov/assets/169608913/582e427f-6c4a-4936-8cf2-83f4a0ec2883" title="2" alt="2" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/fardieov/fardieov/assets/169608913/ce8dc47b-4b29-4fb9-b975-7b2594bc98ee"  title="3" alt="3" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/fardieov/fardieov/assets/169608913/0256c274-79b4-406c-87bf-8a2966d1fa25" title="4" alt="4" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/fardieov/fardieov/assets/169608913/ce9c2888-2a0f-4d05-abc4-b64937ea8fce" title="5" alt="5" width="40" height="40"/>&nbsp;
 <div>
