@@ -1,23 +1,24 @@
-### Hello! 👋
-<div align="">
+### 🙋🏻‍♂️
+ㅤ
+<div align="none">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB6OXV5Mm5jbmF2ZDNyMmJpd3c2YXJmYzllZ2ZsbWR2OTdzN2NoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uju2qRf4p2notjRZAQ/giphy.webp"/>
-</div>
+    </div>
 
-### About me 👩‍💻
-* **Python**: I have been developing in Python for 1 year.
-* **Discord**: @fardieov
-## ~ 🖥️
-* **Processor**: Intel Core i5-10300H
-* **Video card**: NVIDIA GeForce GTX 1650 Ti
-* **RAM**: 8 Gigabyte
-* I am using an Asus Tuf Gaming F17 laptop + PC
----
 
-### & 🔧
+### 👤
+
+* 👁️‍🗨️ 𝘚𝘰𝘳𝘳𝘺, 𝘐 𝘥𝘰𝘯’𝘵 𝘭𝘪𝘬𝘦 𝘪𝘯𝘵𝘳𝘰𝘥𝘶𝘤𝘪𝘯𝘨 𝘮𝘺𝘴𝘦𝘭𝘧 𝘪𝘯 𝘧𝘳𝘰𝘯𝘵 𝘰𝘧 𝘱𝘦𝘰𝘱𝘭𝘦, 𝘐 𝘱𝘳𝘦𝘧𝘦𝘳 𝘵𝘰 𝘣𝘦 𝘢𝘯𝘰𝘯𝘺𝘮𝘰𝘶𝘴
+
+### 🌐
+
+* 🎓 𝘐 𝘶𝘴𝘦 𝘢 𝘤𝘰𝘮𝘣𝘪𝘯𝘢𝘵𝘪𝘰𝘯 𝘰𝘧 𝘈𝘴𝘶𝘴 𝘛𝘶𝘧 𝘎𝘢𝘮𝘪𝘯𝘨 𝘍17 𝘭𝘢𝘱𝘵𝘰𝘱 & 𝘮𝘺 𝘗𝘊
+
+### 🥷🏻
+
 <div>
-    <img src="https://github.com/fardieov/fardieov/assets/169608913/d20d2d5b-99df-48f6-aa2f-2ad84a7f7bf3" title="1" alt="1" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/fardieov/fardieov/assets/169608913/d20d2d5b-99df-48f6-aa2f-2ad84a7f7bf3" title="1" alt="1" width="40" height="40"/>&nbsp;
     <img src="https://github.com/fardieov/fardieov/assets/169608913/582e427f-6c4a-4936-8cf2-83f4a0ec2883" title="2" alt="2" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/fardieov/fardieov/assets/169608913/ce8dc47b-4b29-4fb9-b975-7b2594bc98ee"  title="3" alt="3" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/fardieov/fardieov/assets/169608913/ce9c2888-2a0f-4d05-abc4-b64937ea8fce" title="5" alt="5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/fardieov/fardieov/assets/169608913/0256c274-79b4-406c-87bf-8a2966d1fa25" title="4" alt="4" width="40" height="40"/>&nbsp;
-<div>
+      <img src="https://github.com/fardieov/fardieov/assets/169608913/ce8dc47b-4b29-4fb9-b975-7b2594bc98ee"  title="3" alt="3" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/fardieov/fardieov/assets/169608913/ce9c2888-2a0f-4d05-abc4-b64937ea8fce" title="5" alt="5" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/fardieov/fardieov/assets/169608913/0256c274-79b4-406c-87bf-8a2966d1fa25" title="4" alt="4" width="40" height="40"/>&nbsp;
+            <div>
